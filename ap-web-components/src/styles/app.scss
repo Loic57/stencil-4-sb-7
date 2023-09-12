@@ -1,0 +1,57 @@
+@import 'generated-variables';
+@import 'variables';
+@import 'functions/map-deep-get';
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('assets/icons/icomoon.eot?d9rxii');
+  src:  url('assets/icons/icomoon.eot?d9rxii#iefix') format('embedded-opentype'),
+    url('assets/icons/icomoon.ttf?d9rxii') format('truetype'),
+    url('assets/icons/icomoon.woff?d9rxii') format('woff'),
+    url('assets/icons/icomoon.svg?d9rxii#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: 'Neue Haas';
+  font-weight: 900;
+  font-style: normal;
+  src: url('assets/fonts/NeueHaasDisplayBlack.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Neue Haas';
+  font-weight: 700;
+  font-style: normal;
+  src: url('assets/fonts/NeueHaasDisplayBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Neue Haas';
+  font-weight: 500;
+  font-style: normal;
+  src: url('assets/fonts/NeueHaasDisplayMedium.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: 'Neue Haas';
+  font-weight: 400;
+  font-style: normal;
+  src: url('assets/fonts/NeueHaasDisplayRoman.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Neue Haas';
+  font-weight: 300;
+  font-style: normal;
+  src: url('assets/fonts/NeueHaasDisplayLight.ttf') format('truetype');
+}
+
+html {
+  font-size: 62.5%;
+}
